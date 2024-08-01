@@ -171,7 +171,7 @@ const Chat = (props: any) => {
           </div>
         </div>
       </div>
-      <div className="absolute bottom-0 left-0 w-full border-t md:border-t-0 border-white/20 md:border-transparent md:bg-vert-light-gradient pt-2" data-tooltip-id="textbox" data-tooltip-html="Sample Questions: <br /> Where did Shreyas go to college? <br /> Where has Shreyas worked in the past 4 years?" data-tooltip-delay-show={700}>
+      <div className="absolute bottom-0 left-0 w-full border-t md:border-t-0 border-white/20 md:border-transparent md:bg-vert-light-gradient pt-2" data-tooltip-id="textbox" data-tooltip-html="Sample Questions: <br /> When did Shouryamaan Started Emplode? <br /> Where has Shouryamaan worked in 2024?" data-tooltip-delay-show={700}>
         <form className="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
           <div className="relative flex flex-col h-full flex-1 items-stretch md:flex-col">
             {errorMessage ? (
