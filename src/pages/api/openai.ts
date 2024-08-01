@@ -43,7 +43,7 @@ const openai = new OpenAIApi(configuration);
 //         .map(middleware => middleware(request, response))
 //     )
 //   }
-//hopefully this works
+
 export default async function handler(
   req: NextApiRequest,
   res: NextApiResponse
