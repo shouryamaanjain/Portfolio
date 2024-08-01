@@ -15,7 +15,7 @@ export default function Home() {
   const toggleComponentVisibility = () => {
     setIsComponentVisible(!isComponentVisible);
   };
-  const starterMessage = "Ask whatever questions you have about Shouryamaan here :) You can ask questions about his life, his work, or anything else you can think of."
+  const starterMessage = ""
   const systemMessage = "TOBEFILLED"
 
   return (
